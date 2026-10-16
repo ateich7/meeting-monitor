@@ -1,0 +1,13 @@
+# Secrets and local settings
+.env
+.claude/
+
+# Meeting audio, heart-rate logs, transcripts and analyses: personal, never committed
+recordings/
+prompts/
+results/
+
+# Python
+venv/
+__pycache__/
+*.pyc

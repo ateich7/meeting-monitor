@@ -1,0 +1,8 @@
+pyserial>=3.5
+sounddevice>=0.4
+numpy>=1.24
+scipy>=1.10
+anthropic>=0.40
+openai-whisper
+# Optional, for telling speakers apart (needs HF_TOKEN):
+# pyannote.audio>=3.1
